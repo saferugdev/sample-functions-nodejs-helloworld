@@ -1,0 +1,13 @@
+[
+  {
+    "apihost": "https://faas-fra1-afec6ce7.doserverless.co",
+    "namespace": "fn-9625d83c-cb41-4d5b-8e00-ae570c16fc6e",
+    "packageVersions": {},
+    "actionVersions": {
+      "sample/hello": {
+        "digest": "e27a2a2a2b658c2c5334b55f9159d09e6fb9eae00a7216802210eca5d097a868",
+        "version": "0.0.1"
+      }
+    }
+  }
+]
